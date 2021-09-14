@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="googlePayButton" type="id" />
+    <item name="detailDescription" type="id" />
+    <item name="detailTitle" type="id" />
+    <item name="detailImage" type="id" />
+</resources>
