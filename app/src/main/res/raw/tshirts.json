@@ -3,7 +3,7 @@
     "name":"Wedding dress style 1",
     "title":"White color ",
     "category":"woman_dress",
-    "price":14.75,
+    "price":1000,
     "description":"A white wedding dress  with long sleeves  new style ...",
     "image":"weddingimage"
   },
@@ -11,9 +11,9 @@
     "name":"Wedding dress style 2",
     "title":"White color",
     "category":"womens_dress",
-    "price":17.05,
+    "price":1000,
     "description":"A white wedding dress  with short sleeves  new style ...",
     "image":"weddingimage"
-  },
+  }
 
 ]
